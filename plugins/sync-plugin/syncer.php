@@ -1,1 +1,3 @@
-.
+/*
+ * Plugin Name: Sync Plugin
+ */
